@@ -1,0 +1,10 @@
+terraform/secrets.auto.tfvars
+.github
+.terraform
+*.tfstate
+.tfstate.
+terraform.tfstate
+terraform.tfstate.backup
+*.auto.tfvars
+terraform.tfvars
+*.tfvars
